@@ -730,6 +730,10 @@ ul, h1{
     display: none;
 }
 
+.td-input2 select{
+    background-color: #fff;
+}
+
 /* Media Query Starts Here */
 @media only screen and (max-width:1580px){
     .left-item {
